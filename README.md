@@ -4,7 +4,7 @@ Mum ışığında akşam seansı: koyu ilk ekran, menü kartı gibi noktalı fiy
 
 Demo: https://anbarci.github.io/masaj-salonu-b-aksam/
 
-Üç yönün karşılaştırması: https://anbarci.github.io/masaj-salonu-demolar/
+Bütün yönlerin karşılaştırması: https://anbarci.github.io/masaj-salonu-demolar/
 
 Tek sayfa, statik HTML. İşlevler:
 
